@@ -27,14 +27,14 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/xushen/.local/clion-2017.2.2/bin/cmake/share/cmake-3.8/Modules/Platform/Linux.cmake"
   "/home/xushen/.local/clion-2017.2.2/bin/cmake/share/cmake-3.8/Modules/Platform/UnixPaths.cmake"
   "/home/xushen/.local/clion-2017.2.2/bin/cmake/share/cmake-3.8/Modules/ProcessorCount.cmake"
+  "/home/xushen/.local/share/OpenCV/OpenCVConfig-version.cmake"
+  "/home/xushen/.local/share/OpenCV/OpenCVConfig.cmake"
+  "/home/xushen/.local/share/OpenCV/OpenCVModules-release.cmake"
+  "/home/xushen/.local/share/OpenCV/OpenCVModules.cmake"
   "../CMakeLists.txt"
   "CMakeFiles/3.8.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.8.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.8.2/CMakeSystem.cmake"
-  "/usr/local/share/OpenCV/OpenCVConfig-version.cmake"
-  "/usr/local/share/OpenCV/OpenCVConfig.cmake"
-  "/usr/local/share/OpenCV/OpenCVModules-release.cmake"
-  "/usr/local/share/OpenCV/OpenCVModules.cmake"
   )
 
 # The corresponding makefile is:
